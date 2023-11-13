@@ -20,6 +20,7 @@ Once deployed, use the following terminal commands to interact with the contract
 - `npx hardhat console`: Open the Hardhat console to interact with the contract.
 - `NFTDAO.deployed()`: Load the deployed contract instance.
 - `NFTDAO.methods.<method>()`: Call a contract method, replacing `<method>` with the name of the method.
+- `npm install dotenv`
 
 ## License
 
