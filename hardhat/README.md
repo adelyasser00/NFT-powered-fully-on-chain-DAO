@@ -22,6 +22,8 @@ Once deployed, use the following terminal commands to interact with the contract
 - `NFTDAO.methods.<method>()`: Call a contract method, replacing `<method>` with the name of the method.
 - `npm install dotenv`
 
+#### For front end folder
+-`npm install @rainbow-me/rainbowkit wagmi viem`
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
